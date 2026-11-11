@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tiruvinayak/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tiruvinayak/Leetcode-/tree/master/0035-search-insert-position) |
+| [0414-third-maximum-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiruvinayak/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
