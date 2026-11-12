@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tiruvinayak/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tiruvinayak/Leetcode-/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/tiruvinayak/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiruvinayak/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiruvinayak/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
