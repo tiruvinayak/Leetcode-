@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tiruvinayak/Leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tiruvinayak/Leetcode-/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tiruvinayak/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tiruvinayak/Leetcode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tiruvinayak/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiruvinayak/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tiruvinayak/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiruvinayak/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tiruvinayak/Leetcode-/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/tiruvinayak/Leetcode-/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tiruvinayak/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
